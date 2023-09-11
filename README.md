@@ -337,7 +337,7 @@ working code on MarkUs.
 
 ## Task 5: Reduce a number to 0
 
-- [ ] Right-click on `src` and select `New —> Java Class`. Name it `Reduce`.
+- [X] Right-click on `src` and select `New —> Java Class`. Name it `Reduce`.
 
 Starting with a number n, if n is even divide it by 2. If n is odd, subtract 1. Repeat.
 
